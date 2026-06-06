@@ -1,0 +1,57 @@
+{
+  "total": 6418,
+  "churned": 1732,
+  "stayed": 4275,
+  "joined": 411,
+  "churn_rate": 27.0,
+  "avg_monthly_charge": 63.65,
+  "avg_tenure": 17.3,
+  "total_revenue": 19471390.41,
+  "top_churn_reasons": {
+    "Competitor had better devices": 289,
+    "Competitor made better offer": 274,
+    "Attitude of support person": 208,
+    "Don't know": 124,
+    "Competitor offered more data": 106
+  },
+  "top_churn_categories": {
+    "Competitor": 761,
+    "Attitude": 301,
+    "Dissatisfaction": 300,
+    "Price": 196,
+    "Other": 174
+  },
+  "contract_churn": {
+    "One Year": 11.0,
+    "Month-to-Month": 46.5,
+    "Two Year": 2.7
+  },
+  "internet_churn": {
+    "Cable": 25.7,
+    "Fiber Optic": 41.1,
+    "DSL": 19.4
+  },
+  "state_churn": {
+    "Jammu & Kashmir": 57.2,
+    "Assam": 38.1,
+    "Jharkhand": 34.5,
+    "Chhattisgarh": 30.5,
+    "Delhi": 29.9,
+    "Odisha": 28.9,
+    "Kerala": 27.5,
+    "Rajasthan": 27.0,
+    "Puducherry": 26.8,
+    "Haryana": 26.1
+  },
+  "gender_churn": {
+    "Male": 26.2,
+    "Female": 27.4
+  },
+  "avg_age_churned": 50.1,
+  "avg_age_stayed": 46.1,
+  "payment_churn": {
+    "Credit Card": 14.8,
+    "Bank Withdrawal": 34.4,
+    "Mailed Check": 37.8
+  }
+}
